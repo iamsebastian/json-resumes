@@ -1,0 +1,157 @@
+{
+  "bio": {
+    "firstName": "Sebastian",
+    "lastName": "Blei",
+    "email": {
+      "work": "",
+      "personal": "s@blei.in"
+    },
+    "phone": {
+      "work": "",
+      "personal": "015222513780"
+    },
+    "summary": "Hallo. Mein Name ist Sebastian Blei und ich bin Frontend Developer bei der plazz AG. Dort kümmere ich mich nicht nur um die Implementierung von jQuery-Toggles, sondern baue auch mal etwas großes. Persönlich lege ich viel Wert auf durchdachte Strukturierung, einen performanten Fluss, starke Kompatibilität und die filigrane Stilbewahrung, in Stylesheets und Skripten.",
+    "location": {
+      "city": "Nordhausen",
+      "countryCode": "DE",
+      "state": "Thüringen"
+    },
+    "websites": {
+      "blog": "http://blei.in"
+    },
+    "profiles": {
+      "github": "iamsebastian",
+      "twitter": "iamblei"
+    }
+  },
+  "work": [
+    {
+      "company": "plazz AG",
+      "position": "Frontend Developer",
+      "website": "http://plazz.ag",
+      "startDate": "2013-08-01",
+      "summary": "Als Frontend Developer war und bin ich nicht nur dafür zuständig, die Ebene zwischen Photoshop und Backend zu verknüpfen, sondern auch ein durchdachtes Arrangement aus Elementen zu erschaffen, die dem Anwender eine möglichst hohe Benutzerfreundlichkeit aufzeigen. Persönlich, bin ich der Meinung, dass das haptische Gefühl einer App - egal ob Webapp oder native App - vor allem aus Geschwindigkeit und Klarheit resultiert. Testing von Usability und Code, sorgt für konsequent hohe Qualität. Diese Werte verknüpfe ich hier.",
+      "highlights": [
+        "Leitung von TechDay-Workshops: GIT, SASS, AngularJS.",
+        "Umsetzung der ersten Windows Phone 8 App im Unternehmen."
+        "Scrumm: Product Owner."
+      ]
+    },
+    {
+      "company": "SPEED Projektmanagement GmbH Diedorf",
+      "position": "Entwicklung und Administration, Nebenjob",
+      "website": "http://speed-projekt.de",
+      "startDate": "2013-01-01",
+      "endDate": "2013-04-01",
+      "summary": "Entwicklung und Administration einer Intranetlösung. Studentische Nebentätigkeit.",
+      "highlights": []
+    },
+    {
+      "company": "VYON Beauty GmbH",
+      "position": "Datenbankprogrammierung, Nebenjob",
+      "website": "http://vyon.de",
+      "startDate": "2012-02-01",
+      "endDate": "2012-11-01",
+      "summary": "Automatisierung von Abläufen zur Datenbankpflege, sowie Betreuung und Strukturierung der eingeführten ERP. Studentische Nebentätigkeit.",
+      "highlights": []
+    },
+    {
+      "company": "ProMarkt GmbH",
+      "position": "Datenbankadministration, 1st Lvl Support, Nebenjob",
+      "website": "http://promarkt.de",
+      "startDate": "2009-07-01",
+      "endDate": "2009-08-01",
+      "summary": "Unterstützung der Mitarbeiter und Kundenberatung vor Ort. Überbrückung vor dem Beginn der Fachoberschule.",
+      "highlights": []
+    },
+    {
+      "company": "Bundeswehr",
+      "position": "Datenverarbeitungsunteroffizier",
+      "website": "http://bundeswehr.de",
+      "startDate": "2008-07-01",
+      "endDate": "2008-11-01",
+      "summary": "Administration des Standortes Bad Salzungen, sowie Fernwartung von Maschinen bei Außeneinsätzen und Schulungseinheiten, wie dem Truppenübungsplatz.",
+      "highlights": []
+    },
+    {
+      "company": "Inno Zerspan GmbH",
+      "position": "CNC-Programmierung, Netzwerkadministration, Qualitätsmanagement.",
+      "website": "",
+      "startDate": "2007-06-01",
+      "endDate": "2008-02-01",
+      "summary": "Programmieren von CNC-Maschinen zur Zerspanung, Qualitätsmanagement und -kontrolle in Messräumen, sowie die Administration der vorhandenen TK-Infrastruktur.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "FH Nordhausen",
+      "startDate": "2010-09-01",
+      "area": "Technische Informatik",
+      "studyType": "Kommunikations- und Informationstechnologie.",
+      "courses": [
+        "Internettechnologie",
+        "Softwareengineering",
+        "Mikroprozessortechnik",
+        "Hardwareprogrammierung"
+      ]
+    },
+    {
+      "institution": "SBBS 2 Nordhausen",
+      "startDate": "2009-09-01",
+      "endDate": "2010-07-01",
+      "area": "Fachoberschule",
+      "studyType": "Fachhochschulreife",
+      "courses": []
+    },
+    {
+      "institution": "SoftDoor GmbH",
+      "startDate": "2004-09-01",
+      "endDate": "2007-07-01",
+      "area": "Ausbildung",
+      "studyType": "Wirtschaftsinformatik",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Title",
+      "date": "2014-11-01",
+      "awarder": "Awardverleiher"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publikationstitel",
+      "publisher": "Publisher",
+      "releaseDate": "2014-10-01",
+      "website": "http://url.to.your/publication"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Stefan Baumgartner",
+      "reference": "Springt mit ihm! Denn er springt am höchsten."
+    }
+  ]
+}

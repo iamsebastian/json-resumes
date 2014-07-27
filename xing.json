@@ -1,0 +1,321 @@
+{
+  "users": [
+    {
+      "id": "17628864_e2d822",
+      "active_email": "s@blei.in",
+      "badges": [],
+      "birth_date": {
+        "year": 1987,
+        "month": 8,
+        "day": 29
+      },
+      "business_address": {
+        "street": "Weinberghof 4",
+        "zip_code": "99734",
+        "city": "Nordhausen",
+        "province": "Thüringen",
+        "country": "DE",
+        "email": null,
+        "fax": null,
+        "phone": "49|3631|420",
+        "mobile_phone": null
+      },
+      "display_name": "Sebastian Blei",
+      "educational_background": {
+        "degree": null,
+        "primary_school": {
+          "name": "FH Nordhausen",
+          "subject": "Technische Informatik",
+          "degree": "Bachelor",
+          "begin_date": "2010-09",
+          "end_date": null,
+          "notes": "Softwareengineering, Scripting, FrontEnd-, BackEnd-Entwicklung, Datenbanken, Programmierung,\r\nKommunikationstechnik & -systeme,\r\nNetzwerk.",
+          "id": "1_7cab26"
+        },
+        "schools": [
+          {
+            "name": "FH Nordhausen",
+            "subject": "Technische Informatik",
+            "degree": "Bachelor",
+            "begin_date": "2010-09",
+            "end_date": null,
+            "notes": "Softwareengineering, Scripting, FrontEnd-, BackEnd-Entwicklung, Datenbanken, Programmierung,\r\nKommunikationstechnik & -systeme,\r\nNetzwerk.",
+            "id": "1_7cab26"
+          }
+        ],
+        "qualifications": [
+          "Staatl. geprüfter Wirtschaftsinformatiker - IHK (2007)",
+          "Fachhochschulreife - Wirtschaft (2010, Note: 1.6)"
+        ]
+      },
+      "employment_status": "STUDENT",
+      "first_name": "Sebastian",
+      "gender": "m",
+      "haves": "Kreativität, Logik, Analytik, Programmierung, Python, JavaScript, JS, EcmaScript, CSS, SASS, SCSS, HTML, XML, Jade, Node, NodeJS, MongoDB, Front End, FrontEnd, Illustrator, SVG, Datenbanken, Netzwerk, Linux, Unix, WebEngineering, SoftwareEngineering, Scripting, AngularJS, Grunt, Yeoman",
+      "instant_messaging_accounts": {},
+      "interests": "Familie, Sport, Musik, Handwerk.",
+      "languages": {
+        "de": "NATIVE",
+        "en": "FLUENT"
+      },
+      "last_name": "Blei",
+      "organisation_member": null,
+      "page_name": "Sebastian_Blei",
+      "permalink": "https://www.xing.com/profile/Sebastian_Blei",
+      "photo_urls": {
+        "thumb": "https://www.xing.com/pubimg/users/d/4/a/cc07b535e.17628864,3.30x40.jpg",
+        "large": "https://www.xing.com/pubimg/users/d/4/a/cc07b535e.17628864,3.140x185.jpg",
+        "mini_thumb": "https://www.xing.com/pubimg/users/d/4/a/cc07b535e.17628864,3.18x24.jpg",
+        "maxi_thumb": "https://www.xing.com/pubimg/users/d/4/a/cc07b535e.17628864,3.70x93.jpg",
+        "medium_thumb": "https://www.xing.com/pubimg/users/d/4/a/cc07b535e.17628864,3.57x75.jpg"
+      },
+      "premium_services": [],
+      "private_address": {
+        "street": null,
+        "zip_code": null,
+        "city": null,
+        "province": null,
+        "country": null,
+        "email": "s@blei.in",
+        "fax": null,
+        "phone": null,
+        "mobile_phone": null
+      },
+      "professional_experience": {
+        "primary_company": {
+          "id": null,
+          "name": null,
+          "url": null,
+          "tag": null,
+          "title": null,
+          "begin_date": null,
+          "end_date": null,
+          "description": null,
+          "until_now": false,
+          "industry": "OTHERS",
+          "company_size": null,
+          "career_level": null,
+          "form_of_employment": null
+        },
+        "companies": [
+          {
+            "id": "24565408_958e85",
+            "name": "plazz entertainment AG",
+            "url": "http://www.plazz-entertainment.com/",
+            "tag": "PLAZZENTERTAINMENTAG",
+            "title": "Frontend Engineer",
+            "begin_date": "2013-08",
+            "end_date": null,
+            "description": "Als Entwickler für Frontends, arbeite ich eng mit Grafikern und Backend-Entwicklern zusammen; verknüpfe Konzeptionen mit Datenendpunkte und schaffe dabei entsprechende Interaktionsmöglichkeiten.\r\nMeine persönliche Wichtung liegt nicht nur darauf, software-technische Neuerungen zu erkunden und anzuwenden, sondern auch zu Kommunizieren, welche Wege unter welchen Gesichtspunkten getroffen werden können.",
+            "until_now": true,
+            "industry": "CONSUMER_SERVICES",
+            "company_size": "11-50",
+            "career_level": "PROFESSIONAL_EXPERIENCED",
+            "form_of_employment": "FULL_TIME_EMPLOYEE"
+          },
+          {
+            "id": "24565409_479c28",
+            "name": "SPEED Projektmanagement GmbH Diedorf",
+            "url": null,
+            "tag": "SPEEDPROJEKTMANAGEMENTGMBHDIEDORF",
+            "title": "Entwicklung und Administration, Nebenjob.",
+            "begin_date": "2013-01",
+            "end_date": "2013-04",
+            "description": "Entwicklung und Administration Intranet.",
+            "until_now": false,
+            "industry": "CONSTRUCTION",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED",
+            "form_of_employment": "PART_TIME_EMPLOYEE"
+          },
+          {
+            "id": "24565410_49b750",
+            "name": "VYON Beauty GmbH",
+            "url": null,
+            "tag": "VYONBEAUTYGMBH",
+            "title": "Datenbankadministration, Nebenjob.",
+            "begin_date": "2012-02",
+            "end_date": "2012-11",
+            "description": "Datenbankpflege und -automatisierung, Skripte.",
+            "until_now": false,
+            "industry": "COSMETICS",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED",
+            "form_of_employment": "PART_TIME_EMPLOYEE"
+          },
+          {
+            "id": "24565411_8aceb7",
+            "name": "Klapp Cosmetics",
+            "url": null,
+            "tag": "KLAPPCOSMETICS",
+            "title": "Datenbankprogrammierung, Nebenjob.",
+            "begin_date": "2011-02",
+            "end_date": "2011-04",
+            "description": "Automatisierung, Makroprogrammierung",
+            "until_now": false,
+            "industry": "COSMETICS",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED",
+            "form_of_employment": "FULL_TIME_EMPLOYEE"
+          },
+          {
+            "id": "24565412_a5708e",
+            "name": "ProMarkt GmbH",
+            "url": null,
+            "tag": "PROMARKTGMBH",
+            "title": "Datenbankprogrammierung, 1st Lvl Support, Nebenjob.",
+            "begin_date": "2009-07",
+            "end_date": "2009-08",
+            "description": "Hard-/Software-Support.\r\n\r\nZur Überbrückung vor dem Beginn der Fachoberschule.",
+            "until_now": false,
+            "industry": "RETAIL",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED",
+            "form_of_employment": "FULL_TIME_EMPLOYEE"
+          },
+          {
+            "id": "24565413_7e167b",
+            "name": "Bundeswehr",
+            "url": null,
+            "tag": "BUNDESWEHR",
+            "title": "Stabsunteroffizier (Datenverarbeitungsunteroffizier)",
+            "begin_date": "2008-07",
+            "end_date": "2008-10",
+            "description": "Administration, Netzwerk, Programmierung",
+            "until_now": false,
+            "industry": "DEFENSE_MILITARY",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED",
+            "form_of_employment": "FULL_TIME_EMPLOYEE"
+          },
+          {
+            "id": "24565414_f42219",
+            "name": "Inno Zerspan GmbH",
+            "url": null,
+            "tag": "INNOZERSPANGMBH",
+            "title": "CNC-Programmierung, Netzwerkadministration, Qualitätsmanagement.",
+            "begin_date": "2007-06",
+            "end_date": "2008-02",
+            "description": "(CNC-)Maschinenprogrammierung, Qualitätsmanagement, Administration",
+            "until_now": false,
+            "industry": "METAL_METALWORKING",
+            "company_size": null,
+            "career_level": "ENTRY_LEVEL",
+            "form_of_employment": "FULL_TIME_EMPLOYEE"
+          }
+        ],
+        "awards": [],
+        "non_primary_companies": [
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "plazz entertainment AG",
+            "url": "http://www.plazz-entertainment.com/",
+            "tag": "PLAZZENTERTAINMENTAG",
+            "title": "Frontend Engineer",
+            "begin_date": "2013-08",
+            "end_date": null,
+            "description": "Als Entwickler für Frontends, arbeite ich eng mit Grafikern und Backend-Entwicklern zusammen; verknüpfe Konzeptionen mit Datenendpunkte und schaffe dabei entsprechende Interaktionsmöglichkeiten.\r\nMeine persönliche Wichtung liegt nicht nur darauf, software-technische Neuerungen zu erkunden und anzuwenden, sondern auch zu Kommunizieren, welche Wege unter welchen Gesichtspunkten getroffen werden können.",
+            "industry": "CONSUMER_SERVICES",
+            "company_size": "11-50",
+            "career_level": "PROFESSIONAL_EXPERIENCED"
+          },
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "SPEED Projektmanagement GmbH Diedorf",
+            "url": null,
+            "tag": "SPEEDPROJEKTMANAGEMENTGMBHDIEDORF",
+            "title": "Entwicklung und Administration, Nebenjob.",
+            "begin_date": "2013-01",
+            "end_date": "2013-04",
+            "description": "Entwicklung und Administration Intranet.",
+            "industry": "CONSTRUCTION",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED"
+          },
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "VYON Beauty GmbH",
+            "url": null,
+            "tag": "VYONBEAUTYGMBH",
+            "title": "Datenbankadministration, Nebenjob.",
+            "begin_date": "2012-02",
+            "end_date": "2012-11",
+            "description": "Datenbankpflege und -automatisierung, Skripte.",
+            "industry": "COSMETICS",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED"
+          },
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "Klapp Cosmetics",
+            "url": null,
+            "tag": "KLAPPCOSMETICS",
+            "title": "Datenbankprogrammierung, Nebenjob.",
+            "begin_date": "2011-02",
+            "end_date": "2011-04",
+            "description": "Automatisierung, Makroprogrammierung",
+            "industry": "COSMETICS",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED"
+          },
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "ProMarkt GmbH",
+            "url": null,
+            "tag": "PROMARKTGMBH",
+            "title": "Datenbankprogrammierung, 1st Lvl Support, Nebenjob.",
+            "begin_date": "2009-07",
+            "end_date": "2009-08",
+            "description": "Hard-/Software-Support.\r\n\r\nZur Überbrückung vor dem Beginn der Fachoberschule.",
+            "industry": "RETAIL",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED"
+          },
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "Bundeswehr",
+            "url": null,
+            "tag": "BUNDESWEHR",
+            "title": "Stabsunteroffizier (Datenverarbeitungsunteroffizier)",
+            "begin_date": "2008-07",
+            "end_date": "2008-10",
+            "description": "Administration, Netzwerk, Programmierung",
+            "industry": "DEFENSE_MILITARY",
+            "company_size": null,
+            "career_level": "PROFESSIONAL_EXPERIENCED"
+          },
+          {
+            "_this_is_deprecated_since": "2014-05-08",
+            "name": "Inno Zerspan GmbH",
+            "url": null,
+            "tag": "INNOZERSPANGMBH",
+            "title": "CNC-Programmierung, Netzwerkadministration, Qualitätsmanagement.",
+            "begin_date": "2007-06",
+            "end_date": "2008-02",
+            "description": "(CNC-)Maschinenprogrammierung, Qualitätsmanagement, Administration",
+            "industry": "METAL_METALWORKING",
+            "company_size": null,
+            "career_level": "ENTRY_LEVEL"
+          }
+        ]
+      },
+      "time_zone": {
+        "utc_offset": 2,
+        "name": "Europe/Berlin"
+      },
+      "wants": "Kontakte, Projekte, Herausforderungen, Spezialisierungen, Vertiefungen, Wissen, Bildung, Informationen, Seminare.",
+      "web_profiles": {
+        "homepage": [
+          "http://blei.in"
+        ],
+        "other": [
+          "http://dabblet.com/user/iamsebastian",
+          "http://codepen.io/shellwerk"
+        ],
+        "github": [
+          "https://github.com/iamsebastian"
+        ]
+      }
+    }
+  ]
+}
