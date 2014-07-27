@@ -15,4 +15,4 @@ http.createServer(function (req, res) {
       res.write(JSON.stringify(obj));
       res.end();
   });
-}).listen(process.env.PORT || 80);
+}).listen(process.env.PORT || 8000);
