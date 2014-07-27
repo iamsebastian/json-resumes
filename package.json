@@ -1,6 +1,23 @@
 {
-  "name": "node-o-gandi",
-  "description": "a fine piece of express art",
+  "name": "json-resumes-sebastianblei",
   "version": "0.0.1",
-  "dependencies": {}
+  "description": "json-resumes-sebastianblei =======================",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamsebastian/json-resumes.git"
+  },
+  "author": "Sebastian Blei",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/iamsebastian/json-resumes/issues"
+  },
+  "homepage": "https://github.com/iamsebastian/json-resumes",
+  "dependencies": {
+    "express": "~4.1.1",
+    "express-subdomain": "1.0.0"
+  }
 }
