@@ -1,0 +1,222 @@
+{
+  "name": "Sebastian Blei",
+  "birthday": "08-29-1987",
+  "street": "Thüringerstraße 4",
+  "postcode": "99734",
+  "city": "Nordhausen",
+
+  "school": [
+    {
+      "name": "Staatliche Regelschule Käthe Kollwitz",
+      "type": "Realschule",
+      "title": "Mittlere Reife",
+      "mark": 2.0
+    },
+    {
+      "name": "SBBS 2 Nordhausen",
+      "type": "Fachoberschule",
+      "title": "Fachhochschulreife",
+      "specialization": "Wirtschaft",
+      "mark": 1.6
+    }
+  ],
+
+  "education": [
+    {
+      "company": "SoftDoor GmbH", 
+      "title": "Wirtschaftsinformatik",
+      "specialization": "Industrie",
+      "skills": ["Assembler", "Visual Basic", "Python", "Administration", "Netzwerke", "Wirtschaftswesen"],
+      "from": "08-01-2004",
+      "to": "07-01-2007"
+    },
+    {
+      "company": "FH Nordhausen", 
+      "title": "Technische Informatik",
+      "specialization": "Informations- und Kommunikationstechnik",
+      "skills": ["Assembler", "VHDL", "C#", "Internettechnologien", "Netze", "(Tele-)Kommunikation", "Mikroprozessoren", "(Digitale) Schaltungstechnik"],
+      "from": "08-01-2004",
+      "to": "07-01-2007"
+    }
+  ],
+
+  "jobs": [
+    {
+      "title": "Frontend Engineer",
+      "description": "Neben dem Entwickeln des FrontEnds von Web- und Applösungen, habe ich regelmäßig Workshops am firmeninternen \"TechDay\" abgehalten, um den Technikstand des Kollegiums zu vertiefen. Außerdem habe ich vorhandene Webprojekte in Performance-Angelegenheiten optimiert und Arbeitsabläufe automatisiert.",
+      "from": "08-12-2013",
+      "to": "now",
+      "company": "plazz AG"
+    },
+    {
+      "title": "CNC Programmierer",
+      "description": "Intern geschult an CNC-Maschinen und dem Messraum, kümmerte ich mich neben der Programmiertätigkeit, um die Administration der IT und das Qualitätsmanagement der bearbeiteten Gussprodukte.",
+      "from": "07-01-2007",
+      "to": "01-01-2008",
+      "company": "InnoZerspan GmbH"
+    },
+    {
+      "title": "Datenverarbeitungsunteroffizier",
+      "description": "Nach der Grundausbildung: Verfassen von Scripts zum Automatisieren von administrativen Aufgaben im Netzwerk, sowie Administration der IT am Standort.",
+      "from": "07-01-2008",
+      "to": "11-01-2008",
+      "company": "Bundeswehr, Bad Salzungen"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Teletext Festival",
+      "description": "Anlässlich des Teletext Festivals, entstand im Kundenauftrag eine Website, bei der es möglich sein sollte, eigene Bilder hoch zu laden, die dann in den \"Teletext-Stil\" konvertiert werden sollten.",
+      "category": "Website",
+      "role": "Web Developer",
+      "from": "08-12-2013",
+      "to": "08-26-2013",
+      "technologies": ["Canvas", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "title": "MEA",
+      "description": "Eine WebApp für Konferenzen und Messen. Die Infrastruktur ist so weit konfiguriert, dass die App bei Bedarf auch als ContainerApp in den jeweiligen AppStores released werden kann. Im Moment, entstehen an Stelle der Containerlösungen, native Implementierungen. Die Entwicklung an der WebApp ist durchgehend.",
+      "category": "Web- und MobileApp",
+      "role": "Web Developer",
+      "from": "08-12-2013",
+      "to": "now",
+      "technologies": ["jQuery", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "title": "BMW CO2 Tax Calculator",
+      "description": "Im Kundenauftrag entstanden eine iOS, sowie eine WebApp. Die WebApp sollte abwärtskompatibel bis IE8 sein. Für die beiden Plattformen wurden die selben Testszenarien im Robot Framework verwendet. Dabei wurde für den IE8 ein Selenium Driver per Remote angesteuert und auf einem Jenkins deployt, um Continous Integration zu ermöglichen. Stand heute: In Zusammenarbeit mit dem Kunden, die Planung der V2.0.",
+      "category": "WebApp",
+      "role": "Web Developer",
+      "from": "10-01-2013",
+      "to": "02-01-2014",
+      "technologies": ["AngularJS", "Robot Framework", "Selenium", "JavaScript", "GruntJS", "HTML", "CSS"]
+    },
+    {
+      "title": "Monstercrusher",
+      "description": "Spieleentwicklung im Kundenauftrag. Ich übernahm' dabei vor allem die Integration von Facebook und die entsprechende Anbindung an das Frontend in C#.",
+      "category": "CrossPlattform Game",
+      "role": "Frontend Developer",
+      "from": "02-15-2014",
+      "to": "now",
+      "technologies": ["C#", "Unity"]
+    },
+    {
+      "title": "Campari: RNDB",
+      "description": "Eine Lifestyle App, mit Realisierung auf drei Plattformen: iOS, Android und Windows Phone 8. Neben der Entwicklung der Windows Phone App, hatte ich die Rolle des Product Owners inne. Im Scrummuniversum wird so der Projektleiter, respektive, Projektverantwortliche, bezeichnet.",
+      "category": "Windows Phone 8 App",
+      "role": "Frontend Developer, Product Owner",
+      "from": "02-15-2014",
+      "to": "04-14-2014",
+      "technologies": ["C#", "Silverlight", "Windows Phone 8"]
+    },
+    {
+      "title": "TLM",
+      "description": "Ein soziales Netzwerk zum Austausch von Dokumenten, binden von Kontakten und Veranstaltungen.",
+      "category": "Responsive Website, Wordpress Theme",
+      "role": "Frontend Developer",
+      "from": "06-20-2014",
+      "to": "now",
+      "technologies": ["SASS", "GulpJS", "jQuery", "Responsive", "Wordpress"]
+    }
+  ],
+
+  "sideprojects": [
+    {
+      "title": "blei.in",
+      "description": "Mein Blog. Hauptsächlich zum Rekapitulieren und Festigen von vergangenen Prozessen, durch Niederschreiben der Lösungen.",
+      "category": "Frontend",
+      "technologies": ["SASS", "SVG", "GulpJS", "Liquid", "Ruby", "Octopress", "GitHub"]
+    },
+    {
+      "title": "hochzeitsmagaz.in",
+      "description": "Der Blog von mir und meiner Verlobten, über die Hochzeitsverbereitungen für den August 2015.",
+      "category": "Frontend",
+      "technologies": ["SASS", "Liquid", "Ruby", "Octopress", "GitHub"]
+    }
+  ],
+
+  "spare-time-jobs": [
+    {
+      "title": "Aushilfe",
+      "description": "Vollzeitstelle zur Überbrückung der Zeit bis zum Beginn der Fachoberschule. Beratung der Kunden in der IT-Abteilung, sowie Pflege der internen Produktdatenbank.",
+      "company": "ProMarkt GmbH",
+      "from": "07-01-2009",
+      "to": "09-01-2009",
+      "technologies": ["Datenbanken"]
+    },
+    {
+      "title": "Datenbankadministration",
+      "description": "Pflege der Kunden- und Produktdatenbank, sowie Verfassen von Scripts zur Automatisierung von Datenbankabläufen.",
+      "company": "Klapp GmbH",
+      "from": "02-01-2011",
+      "to": "04-01-2011",
+      "technologies": ["Datenbanken", "XBase++"]
+    },
+    {
+      "title": "Etablierung ERP",
+      "description": "Aufbau der firmeninternen Verwaltungs-Struktur nach Gründung des Unternehmens. Aufbau von Strukturen und Schulung des Personals. Verfassen von Automatisierungsabläufen zur Pflege der Produkt-Datenbank.",
+      "company": "Vyon Beauty GmbH",
+      "from": "11-01-2012",
+      "to": "02-01-2012",
+      "technologies": ["ERP", "Datenbanken"]
+    },
+    {
+      "title": "Frontend für Intranet",
+      "description": "Entwicklung eines Frontends für die firmeninterne Verwaltung.",
+      "company": "SPEED Projektmanagement GmbH",
+      "from": "01-01-2013",
+      "to": "04-01-2013",
+      "technologies": ["HTML", "CSS", "JS"]
+    }
+  ],
+
+  "languages": [
+    {"CSS": 8},
+    {"C#": 4},
+    {"HTML": 7},
+    {"GIT": 7},
+    {"JS": 8},
+    {"Python": 2},
+    {"Ruby": 3},
+    {"SASS": 7}
+  ],
+
+  "tools": [
+    {"Adobe CS": 5},
+    {"Chrome": 6},
+    {"Firefox": 9},
+    {"GulpJS": 6},
+    {"GruntJS": 6},
+    {"Sketch": 8},
+    {"Stackoverflow": 7},
+    {"Sublime Text": 8},
+    {"zsh": 7}
+  ],
+
+  "frameworks": [
+    {"AngularJS": 6},
+    {"jQuery": 5},
+    {"node.js": 4},
+    {"Robot Framework": 7},
+    {"Ruby On Rails": 3}
+  ],
+
+  "dialekte": [
+    {"CoffeeScript": 2},
+    {"EcmaScript6": 2},
+    {"HAML": 2},
+    {"Jade": 3},
+    {"MarkDown": 8},
+    {"Mustache": 3},
+    {"SVG": 7}
+  ],
+
+  "systeme": [
+    {"OS X": 8},
+    {"Linux": 8},
+    {"Windows": 5}
+  ],
+
+  "workshops": ["GIT", "SASS", "AngularJS", "Windows Phone 8"]
+}
