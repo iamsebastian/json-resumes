@@ -7,7 +7,7 @@ var http = require('http'),
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'application/json; charset=utf-8'});
   
-  fs.readFile('cv.json', 'UTF-8', function (err,data) {
+  fs.readFile('resume.json', 'UTF-8', function (err,data) {
     if (err) {
       return console.log(err);
     }
